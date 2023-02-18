@@ -1,0 +1,23 @@
+{
+  "name": "hw-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yur-dov/node-hw-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yur-dov/node-hw-new/issues"
+  },
+  "homepage": "https://github.com/yur-dov/node-hw-new#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
